@@ -1,0 +1,70 @@
+#main {
+    background-image: url(../img/contact/bg_contact.jpg);
+    background-size: 100% 100%;
+}
+#body_content {
+    padding: 130px 150px 30px 180px;
+}
+#body_content .page_title {
+    background-color: white;
+    color: #E53328;
+    font-size: 60px;
+    font-weight: bold;
+    line-height: 70px;
+    width: 360px;
+    padding-left: 15px;
+    border-radius: 7px;
+}
+#main_contact {
+    display: flex;
+    margin: 30px auto;
+}
+#content_left {
+    background-color: #ffe9da;
+    width: 30%;
+    height: 260px;
+    margin-right: 20px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-left: 16px;
+}
+#margintest {
+    color: #3c3b39;
+    font-size: 22px;
+}
+.pfontsizeleft {
+    color: #984d17;
+    font-size: 13px;
+    letter-spacing: normal;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#content_right {
+    background-color: #ffe9da;
+    width: 80%;
+    height: auto;
+    
+
+   
+}
+.form-contact {
+    width: 70%;
+    padding: 20px;
+    
+}
+input[type=text] {
+    width: 415px;
+    height: 30px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-top: 10px;
+    margin-bottom: 16px;
+    padding-left: 10px;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.inf-msg #name {
+    height: 100px;
+    
+    
+}
